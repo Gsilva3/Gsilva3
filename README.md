@@ -1,4 +1,8 @@
-- # Gabriel Joli - Developer
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=800&size=30&pause=1000&color=F8BE13&center=true&vCenter=true&width=435&lines=%E2%86%AA+Gabriel+Silva+%E2%86%A9++;%E2%98%9E+Desenvolvedor++-+Joli+%E2%98%9C" alt="Typing SVG" /></a>
+</div>
+
+
 
 ## Sobre Mim
 
