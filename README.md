@@ -34,8 +34,10 @@ Olá! Eu sou Gabriel, um desenvolvedor  apaixonado por tecnologia e inovação. 
 
 ## Contato
 
-- *Email*: [gabriel.silva@joli.com.br](mailto:gabriel.silva@joli.com.br)
-- *Ramal*: 2955-1006 // 2955-2234
+- *Email*: [gsilva.dev10@gmail.com
+](mailto:gsilva.dev10@gmail.com
+)
+
 
 ## GitHub Stats
 
